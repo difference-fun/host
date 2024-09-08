@@ -1,0 +1,19 @@
+{
+  "System": {
+    "Route": [
+      {
+        "#class": "System.Route",
+        "name": "difference-fun-cli-host",
+        "path": "difference_fun\/host",
+        "controller": "Package.R3m.Io.Host.Controller.Cli.run",
+        "request": {
+          "language": "en"
+        },
+        "priority": 1001,
+        "method": [
+          "CLI"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name" : "difference_fun/host",
+  "description" : "difference_fun/host see https://difference.fun for detailed usage",
+  "type" : "package",
+  "keywords" : ["node", "difference", "fun", "host", "package", "framework", "difference.fun"],
+  "homepage": "https://difference.fun",
+  "require" : {
+    "ext-posix": "*",
+    "ext-zlib": "*",
+    "ext-iconv": "*",
+    "difference_fun/framework": "*"
+  },
+  "license" : "MIT",
+  "authors" : [{
+    "name" : "Remco van der Velde",
+    "email" : "development@universeorange.com"
+  }]
+}
